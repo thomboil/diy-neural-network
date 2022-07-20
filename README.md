@@ -66,3 +66,5 @@ Evaluates the weights and biasses of the predictions to optimize these weights a
 
 ### Loop again
 Once you go through the 3 steps you loop again and again to better your results.
+
+https://www.youtube.com/watch?v=w8yWXqWQYmU&ab_channel=SamsonZhang
