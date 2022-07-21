@@ -6,7 +6,7 @@ The objective of the neural network if to classify handwritten digits so it can 
 ![image](https://user-images.githubusercontent.com/36003383/179868263-b5959e8a-8e71-4840-bbf8-1d2166a3c4bf.png)
 
 Digits data source: https://www.kaggle.com/competitions/digit-recognizer/data
-Downloaded in test.csv
+Downloaded in train.csv
 
 ## The Math
 ### Images:
